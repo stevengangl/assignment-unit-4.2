@@ -1,0 +1,17 @@
+.info{
+    background-color: red;
+    color: blue;
+}
+
+h3{
+background-color: purple;
+color: gold;
+}
+
+.center{
+    text-align: center;
+    border: 30px solid salmon;
+    margin: auto;
+    padding: 100px;
+    border-radius: 25px;
+}
